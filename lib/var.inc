@@ -31,8 +31,8 @@ $FB_PIXELS = [
 ];
  
 // ── UTMify ────────────────────────────────────────────────────────────────────
-$UTMIFY_API_TOKEN = "43JMlfSLoN3IGSGLD4qeC8TDts9UzXaWXFfB";
-$NOME_PRODUTO = "01 W Produto Digital";
+$UTMIFY_API_TOKEN = "mnx0OaFdYCQ4C2ZBKs9VnPc9QM5kC5F04gVQ";
+$NOME_PRODUTO = "01 W PD TK";
 $ID_PRODUTO   = "produto-001";
  
 $API_KEY = "a4f5d95862b7c5238cd957db82b3482e0b7de358fe65c50f5c6d08985f85dd3c";
